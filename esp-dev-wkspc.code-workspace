@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "serial:/COM3",
+			"uri": "serial://com3/"
+		}
+	],
+	"settings": {
+		"pymakr.ignore": [
+			".vscode",
+			".gitignore",
+			".git",
+			"env",
+			"venv",
+			"esp_firmware",
+			"requirements.txt"
+		]
+	}
+}
